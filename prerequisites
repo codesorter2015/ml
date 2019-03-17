@@ -2,3 +2,50 @@ TensorFlow
 Packet Arch
 Familiarity with Multivariable Calculus, Linear Algebra, Probability, Statistics. 
 Comfortable with programming in Python
+
+Part 1:
+Artificial Neural Networks and Deep Learning
+Includes CNNs and RNNs
+
+Part2:
+Other techniques:
+Includes tree based methods
+Kernel methods
+Probabilistic Methods
+Binary decision tree
+  
+
+Part3:
+Modern/Advanced methods:
+varitional autoencoders
+Autoencoders
+Generative Models
+Reinforcement Learning
+
+
+Week 1  :  Mathematical Basics 1 – Introduction to Machine Learning, Linear Algebra
+Week 2  :  Mathematical Basics 2 -- Probability
+Week 3  :  Computational Basics – Numerical computation and optimization, Introduction to Machine Learning packages
+Week 4  :  Linear and Logistic Regression – Bias/Variance Tradeoff, Regularization, Variants of Gradient Descent, MLE, MAP, Applications
+Week 5  :  Neural Networks – Multilayer Perceptron, Backpropagation, Applications
+Week 6  :  Convolutional Neural Networks 1 – CNN Operations, CNN architectures
+Week 7  :  Convolutional Neural Networks 2 – Training, Transfer Learning, Applications
+Week 8  :  Recurrent Neural Networks ¬– RNN, LSTM, GRU, Applications
+Week 9  :  Classical Techniques 1 – Bayesian Regression, Binary Trees, Random Forests, SVM, Naïve Bayes, Applications
+Week 10  :  Classical Techniques 2 – k-Means, kNN, GMM, Expectation Maximization, Applications
+Week 11  :  Advanced Techniques 1 – Structured Probabilistic Models, Monte Carlo Methods
+Week 12  :  Advanced Techniques 2 – Autoencoders, Generative Adversarial Networks
+
+Week 1  :  Introduction to Artificial Intelligence and the role of Machine Learning (ML)
+Week 2  :   Decision tree based inductive learning
+Week 3  : Conceptual clustering
+Week 4  :  Inductive logic programming
+Week 5  :  Deep learning through Neural networks
+Week 6  :  Applications of machine learning - datamining
+Week 7  :  Reinforcement learning
+Week 8  :  ML Toolboxes and dedicated hardware
+
+Deep Learning, Goodfellow et al, MIT Press, 20172. Pattern Recognition and Machine Learning, Christopher Bishop, Springer, 20093. References to research papers will be provided through the course.
+
+
+
