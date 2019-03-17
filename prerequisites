@@ -3,6 +3,13 @@ Packet Arch
 Familiarity with Multivariable Calculus, Linear Algebra, Probability, Statistics. 
 Comfortable with programming in Python
 
+*) Mathematical "Sophistication"
+   - Linear Algebra
+   - Probability
+   - Optimization Ideas required
+*) Degree of comfort with programming
+
+Course Will be in three broad parts
 Part 1:
 Artificial Neural Networks and Deep Learning
 Includes CNNs and RNNs
@@ -14,7 +21,6 @@ Kernel methods
 Probabilistic Methods
 Binary decision tree
   
-
 Part3:
 Modern/Advanced methods:
 varitional autoencoders
