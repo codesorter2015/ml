@@ -1,6 +1,15 @@
   Machine Learning:
   Aims to replicate activities that requrie human cognition
   
+  CNNs
+  CNNs are convolutional neural networks, these are used for vision.
+  
+  
+  
+  
+  
+  
+  
   There is a finite set of rules
   we tend to use large basket of techniques, these are called machine learning models, these are very old models, 
   several of them at least very old. so we will be looking at many of these algorithms.
@@ -18,3 +27,8 @@ We will give you basic rudiments and will give you several basic examples.
 Our expectation is that you will also do some home work on your own.
 So in terms of prerequisites for the course what is it that your require in order to make that you can complete the course successfully
 One of the primary requirement that you would have is mathematical sophistication.     
+we will be introducing you to some basic ideas that are required for the course
+We will be giving suggested exercises throughout this course
+
+Course Outline:
+Course will be in three broad parts
