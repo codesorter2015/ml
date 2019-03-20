@@ -4,8 +4,15 @@
   CNNs
   CNNs are convolutional neural networks, these are used for vision.
   
+  RNNs
+  RNNs are used for typically sequantial data.
+  
+  ANNs
   
   
+  Modern Techniques:
+  derivative
+  adversarial networks
   
   
   
