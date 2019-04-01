@@ -73,7 +73,11 @@ Any method that tries to replicate the results of some aspect of human cognition
 
 ML:
 ====
-Programs that performs better with experience
+Programs that performs better with experience.
+It is explicitly not rule-based.
+Simple definition - Using data to answer questions.
+Study of computer algorithms that improve automatially through experience.(means data)
+It figures out the rules for itself.
 
 ANN:(Artifical Neural Networks)
 ===============================
@@ -82,8 +86,39 @@ A Machine learning algorithm
 Deep Learning:
 =============
 A type of ANN
+It's a particular subset of machine learning itself.
+
+Big Data
+========
+Using data to find unobvious patterns
+
+The AI Venn diagram (to show the relationship between various terms)
+====================
+Deep Learning -> Machine Learning - > Artifical Intelligence
 
 
+AI :
+===
+Which also encompasses rules-based learning. 
 
+Books:
+======
+Tom Mitchell "Machine Learning"
+Pedro Domingo (multiple sources)
+Francois Chollet (Deep learning with python)
+Master Algorithm
 
-
+When is machine learning useful?
+================================
+When experts are unable to explain their expertise
+ - Image recognition
+ - Speech recognition
+ - Driving a car
+ 
+ Rule of thumb
+ =============
+ Don't use if rules are concise and clear
+ 
+ Combinatorial explosion 
+ 
+ https://www.youtube.com/watch?v=whSKA8aO6xQ&feature=youtu.be
