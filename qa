@@ -119,6 +119,37 @@ When experts are unable to explain their expertise
  =============
  Don't use if rules are concise and clear
  
- Combinatorial explosion 
+ 
+ A Fundamental "trick" in most of ML
+ ====================================
+ All problems are data, all solutions are functions/maps
+ 
+ For example, whether it is a face recognition problem, spam recognition problem,fluid mechanics problem, whatever it's, every problem can be posted can be posed as a data problem.
+ 
+ 1) you have an image, he will not recognise whether it is a cat or dog
+ Cognitive tasks - Humans get sensory inputs as qualia (quatitative input)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Combinatorial explosion:
+ ========================
+ Rules are difficult to extract 
+ 
+ 
+ When Human expertise does not exist
+ - Even for hazardous environments -- It's usually a good idea to use machine learnning or any.
+ 
+ Also when you have solutions that needs to be an adapted to very special cases.
+ - User biometrics 
+ - Patient specific treatments
+ 
+ 
+ 
+ 
  
  https://www.youtube.com/watch?v=whSKA8aO6xQ&feature=youtu.be
