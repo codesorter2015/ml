@@ -126,15 +126,13 @@ When experts are unable to explain their expertise
  
  For example, whether it is a face recognition problem, spam recognition problem,fluid mechanics problem, whatever it's, every problem can be posted can be posed as a data problem.
  
- 1) you have an image, he will not recognise whether it is a cat or dog
+ You have an image, he will not recognise whether it is a cat or dog
  Cognitive tasks - Humans get sensory inputs as qualia (quatitative input)
- 
- 
- 
- 
- 
- 
- 
+  - We must convert these qualitative inputs into numbers - Input Vectors
+  - Similarly outputs that humans give must also be converted into numbers 
+   (output/target vectors)
+  
+Then you have to change image to numbers
  
  Combinatorial explosion:
  ========================
