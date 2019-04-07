@@ -19,9 +19,18 @@ Usage:
 You can use regular expressions to do things like find all the web links in a document.
 Parse email addresses, remove/replace unwanted characters 
 
+Example:
+common regex patterns
+\w+ Matches - word 
+\d Matches - digit
+\s Matches - space
+.* Matches - wildcard
++ or * Matches - greedy match
+\S Matches - not space
+[a-z] Matches - lowercase group
+
 Pattern:
 A pattern is a series of letters or symbols which can map to an actual text or words or punctuation.                              
-
 
 
 
