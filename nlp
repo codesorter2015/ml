@@ -1,0 +1,29 @@
+What is NLP?
+Natural Language Processing is a field of study focused on making sense of language.
+
+Topic Identification?
+
+Text Classification?
+
+NLP Application include:
+* Chatbots
+* Translation
+* Sentiment analysis
+and there also many more.
+
+What exactly are regular expressions?
+- Strings with a special syntax
+- Allow us to match patterns in other strings
+
+Usage:
+You can use regular expressions to do things like find all the web links in a document.
+Parse email addresses, remove/replace unwanted characters 
+
+Pattern:
+A pattern is a series of letters or symbols which can map to an actual text or words or punctuation.                              
+
+
+
+
+
+
