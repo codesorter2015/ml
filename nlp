@@ -32,6 +32,40 @@ common regex patterns
 Pattern:
 A pattern is a series of letters or symbols which can map to an actual text or words or punctuation.                              
 
+Python's re Module
+==================
+re modules
+--------------
+Split: Split a string on regex
+Findall: Find all patterns in a string
+Search: Search for a pattern
+Match: Match an entire string or substring based on a pattern
+Pattern first and the string second
+May return an iterator, string or match object
+In [5]: re.split('\s+', 'Split on spaces.')
+Out[5]: ['Split', 'on', 'spaces.']
+
+What is tokenization?
+=====================
+Turning a string or document into tokens (smaller chunks)
+Many different theories and rules
+You can create your own rules using regular expressions.
+Ex:
+nlkt library
+nlkt: natural language toolkit
+from nlkt.tokenize import word_tokenize
+word_tokenize("hi there")
+Example:
+In [1]: from nltk.tokenize import word_tokenize
+In [2]: word_tokenize("Hi there!")
+Out[2]: ['Hi','there','!']
+
+Why tokenize?
+=============
+- Easier to map part of speech.
+- Matching common words
+- Removing unwanted tokens
+- 
 
 
 
