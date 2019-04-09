@@ -9,6 +9,24 @@
   
   ANNs
   
+  Semi-supervised learning:
+  ========================
+  Small amount of labeled data available along with unlabeled data
+  
+  Self-supervised learning:
+  =========================
+  Implicit lables are extracted from data using heuristics
+  Example :
+  autoencoder
+  
+  Generative Approaches:
+  ========================
+  Creating new data that is "like" given data
+  Generally included in unsupervised learning
+  
+  Reinforcement Learning:
+  =======================
+  
   
   Modern Techniques:
   derivative
