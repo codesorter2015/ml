@@ -164,8 +164,13 @@ Then you have to change image to numbers
  - User biometrics 
  - Patient specific treatments
  
- 
- 
- 
+ Training:
+ F1) y = m * x + b;
+ m - slope
+ x - input
+ b - intercept
+ weights, biases.
+ <- --------------------------------------------------------------------------<
+ <| Training - >[ W (Weights) , biases ] -> Prediction -> Test & Update W,b - |>
  
  https://www.youtube.com/watch?v=whSKA8aO6xQ&feature=youtu.be
