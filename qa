@@ -173,4 +173,6 @@ Then you have to change image to numbers
  <- --------------------------------------------------------------------------<
  <| Training - >[ W (Weights) , biases ] -> Prediction -> Test & Update W,b - |>
  
+ 
+ 
  https://www.youtube.com/watch?v=whSKA8aO6xQ&feature=youtu.be
