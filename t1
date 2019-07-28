@@ -1,0 +1,4 @@
+Training Phase (answer and data give us rules. so this is what we're going to call the training phase)
+Model Phase - (We have trained what's going to be called a model on this and that model is basically a neural network)
+Neural Network 
+data -> [model] -> predictions (predictions out of inference) -> 
