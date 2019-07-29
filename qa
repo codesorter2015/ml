@@ -174,5 +174,19 @@ Then you have to change image to numbers
  <| Training - >[ W (Weights) , biases ] -> Prediction -> Test & Update W,b - |>
  
  
+ statistics has traditionally dealt with:
+data collection
+data modelling
+data analysis
+data interpretation
+data presentation
+
+The core theoretical part of statistics
+mathematical statistics - based on probability theory.
+
+
+ML - dependent on inferential statistics
+ 
+ 
  
  https://www.youtube.com/watch?v=whSKA8aO6xQ&feature=youtu.be
